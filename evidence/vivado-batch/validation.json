@@ -1,0 +1,21 @@
+{
+  "project": "vivado_2026_1/07_mealy",
+  "top": "lab2_mealy",
+  "part": "xc7s75fgga484-1",
+  "execution": "Vivado 2026.1 batch, no GUI",
+  "exit_code": 0,
+  "seconds": 168.13,
+  "run_directory": "tmp/lab2-vivado/07_mealy-1789045735929439400",
+  "inputs_sha256": {
+    "src/mealy_toggle.v": "cbbaea84f211403b4c118bc98a86bdd00777648df13472b768ff5f381bb9ef0f",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_mealy.v": "7828bd85034cac0e9c61bd23bd470df1d420310845ebe7263dc33344e09db5bf",
+    "constraints/lab2_mealy.xdc": "c409037fe63f53243e0cf24aac389f3a2d3669f676ce7c1babe52059585af5a5"
+  },
+  "status": "PASS",
+  "bitstream": {
+    "file": "lab2_mealy.bit",
+    "bytes": 3687013,
+    "sha256": "99cb9f22fbf1e0d3522f95c0b8046737a6251341ba38afd19f2919c057e3ea78"
+  }
+}

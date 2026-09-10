@@ -1,0 +1,19 @@
+{
+  "path": "vivado_2026_1/07_mealy",
+  "tool": "Vivado 2026.1 XSim",
+  "execution": "batch, no GUI",
+  "status": "PASS",
+  "marker": "LAB2_PASS mealy_toggle checks=11",
+  "commands_exit_code": [
+    0,
+    0,
+    0
+  ],
+  "inputs_sha256": {
+    "src/mealy_toggle.v": "cbbaea84f211403b4c118bc98a86bdd00777648df13472b768ff5f381bb9ef0f",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_mealy.v": "7828bd85034cac0e9c61bd23bd470df1d420310845ebe7263dc33344e09db5bf",
+    "sim/tb_mealy_toggle.sv": "37b462465bfda7d9cf32a44b0f63cc1a02274b41db1f10a1c932674ae6f2eff0"
+  },
+  "run_directory": "tmp/lab2-xsim/07_mealy-1789046442100561800"
+}
